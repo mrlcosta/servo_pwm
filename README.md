@@ -38,4 +38,4 @@ O PWM é configurado utilizando a GPIO 22, com a frequência de 50Hz, que result
 ## video demonstrativo:
 
 
-[![Assista ao vídeo demonstrativo](https://i.ytimg.com/vi/m4CvZlHNlw0/hq720_2.jpg?sqp=-oaymwEoCJUDENAFSFryq4qpAxoIARUAAIhC0AEB2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLDEAiMRf0h5bnH_93G-STIvsmkGAQ)](https://youtu.be/uzgP26FSORw?si=cq8t9pHX9QuGYKlS)
+[![Assista ao vídeo demonstrativo](https://i.ytimg.com/vi/m4CvZlHNlw0/hq720_2.jpg?sqp=-oaymwEoCJUDENAFSFryq4qpAxoIARUAAIhC0AEB2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLDEAiMRf0h5bnH_93G-STIvsmkGAQ)](https://youtu.be/B6vUotabbRA?si=Dc5PJno0R4BkYyAp)
